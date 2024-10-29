@@ -1,4 +1,4 @@
-amro
+Amro, course git
 # Lightning Bits: Engineering for Researchers
 
 
